@@ -35,5 +35,4 @@ pip install pandas matplotlib
 3. Export your schedule using the provided buttons.
 
 ## License
-
-This project is provided as-is for educational purposes.
+read License doc pls
